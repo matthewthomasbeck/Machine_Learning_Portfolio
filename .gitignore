@@ -1,0 +1,9 @@
+venv/
+*.json
+.idea/
+cert.pem
+key.pem
+investmentGenie_log.txt
+.DS_Store
+requirements.txt
+Dockerfile
